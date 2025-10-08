@@ -37,7 +37,7 @@ Deploy the Password Tools to your preferred host:
 * Two distinct tabs: **Password Generator** and **Password Strength Checker**.
 * Intuitive tab navigation with smooth transitions.
 
-### 🔑 Tab 1 — Password Generator
+### 🔑 Tab 1: Password Generator
 
 * Customizable password length: **8–32 characters**.
 * Character options: **Uppercase**, **Lowercase**, **Numbers**, **Symbols**.
@@ -46,7 +46,7 @@ Deploy the Password Tools to your preferred host:
 * **Real-time strength analysis** with a visual strength meter.
 * **Crack time estimation** to understand how long a password may withstand attacks.
 
-### 🛡️ Tab 2 — Password Strength Checker
+### 🛡️ Tab 2: Password Strength Checker
 
 * Input field to test any password instantly.
 * **Real-time character analysis** (counts of uppercase, lowercase, digits, symbols).
@@ -64,7 +64,7 @@ Deploy the Password Tools to your preferred host:
 
 ## 📸 Screenshots
 
-> <img width="1280" height="1280" alt="undefined" src="https://github.com/user-attachments/assets/33c7788d-89c2-4a57-b366-84defc1d6e17" />
+> <img width="1280" height="1280" alt="Psasssword Tools Screenshot" src="https://github.com/user-attachments/assets/50d10fe4-8a7c-43b2-a917-d1838ad3f6fd" />
 
 ---
 
