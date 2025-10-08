@@ -76,14 +76,6 @@ Deploy the Password Tools to your preferred host:
 4. For the **Checker**, paste or type a password and then click **Check Password Strength** to view instant analysis, strength meter, and crack-time estimate.
 5. Use **Show/Hide**, **Refresh** and **Clear** controls as needed.
 
----
-
-## 📸 Screenshots
-
-> <img width="1200" alt="password-tools-screenshot" src="https://github.com/REPLACE/REPO/assets/screenshot.png" />
-
----
-
 ## 🧑‍💻 Developer Notes
 
 * Built with modular, readable JavaScript: easy to extend or integrate into other projects.
